@@ -1,0 +1,21 @@
+{
+  "name": "dollar_dog",
+  "version": "1.0.0",
+  "description": "test file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "hotdog"
+  ],
+  "author": "nicholas davis",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
