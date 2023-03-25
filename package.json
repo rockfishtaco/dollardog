@@ -13,7 +13,7 @@
   "keywords": [
     "hotdog"
   ],
-  "author": "nicholas davis",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^5.0.0"
