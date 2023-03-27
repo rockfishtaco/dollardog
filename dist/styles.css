@@ -12,6 +12,7 @@ img {
     .container {
         display: flex;
         
+        flex:centered;
         gap: 10px;
         gap: 10px 20px; /* row-gap column gap */
         row-gap: 10px;
